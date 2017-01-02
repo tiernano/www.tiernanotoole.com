@@ -1,0 +1,14 @@
+# Site settings
+title: Tiernan OToole Software
+email: tiernan@tiernanotoole.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tiernan OToole Software, a software development group, based in Dublin, Ireland
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.tiernanotoole.com" # the base hostname & protocol for your site
+twitter_username: tiernano
+github_username:  tiernano 
+exclude: 
+  - "s3_website.yml"  
+# Build settings
+markdown: kramdown
+
